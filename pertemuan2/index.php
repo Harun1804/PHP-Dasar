@@ -12,7 +12,7 @@
 
 // Variabel dan Tipe Data
 // Variabel
-$nama = "Harun";
+$nama = "Lala";
 ?>
 
 <!DOCTYPE html>
